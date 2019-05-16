@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="datadrivenframework(failed)">
+    <classes>
+      <class name="com.datadriven.tests.AutomatedTests">
+        <methods>
+          <include name="open"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.datadriven.tests.AutomatedTests -->
+    </classes>
+  </test> <!-- datadrivenframework(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
