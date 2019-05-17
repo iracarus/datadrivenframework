@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="074f3a4f-751c-4708-b8dc-3cd0ac427cac" name="Default Changelist" comment="" />
+    <list default="true" id="074f3a4f-751c-4708-b8dc-3cd0ac427cac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datadriven/excel/ExcelReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/InputData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/InputData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/datadriven/tests/AutomatedTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/datadriven/tests/AutomatedTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InputData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InputData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/datadriven/tests/AutomatedTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/datadriven/tests/AutomatedTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/datadrivenframework.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/datadrivenframework.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/datadrivenframework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/datadrivenframework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.datadriven.tests.AutomatedTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.datadriven.tests.AutomatedTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,22 +52,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/datadriven/tests/AutomatedTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="184">
+              <caret line="95" column="41" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#649#650#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/datadriven/excel/ExcelReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/datadriven/pages/RegisterPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1270">
-              <caret line="76" column="33" lean-forward="true" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="39" />
+            <state relative-caret-position="296">
+              <caret line="66" selection-start-line="10" selection-start-column="4" selection-end-line="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,6 +115,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -93,8 +125,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/datadriven/base/TestBase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/datadriven/tests/AutomatedTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/datadriven/pages/RegisterPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/datadriven/tests/AutomatedTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/datadriven/excel/ExcelReader.java" />
       </list>
     </option>
   </component>
@@ -110,6 +143,7 @@
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -155,16 +189,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="datadriven" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datadrivenframework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datadrivenframework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="datadriven" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="excel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="datadrivenframework" type="b2602c69:ProjectViewProjectNode" />
@@ -201,6 +226,9 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -304,39 +332,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AutomatedTests_open - 2019.05.16 at 19h 19m 18s.xml">
+    <history-entry file="AutomatedTests_open - 2019.05.17 at 08h 36m 03s.xml">
       <configuration name="AutomatedTests.open" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomatedTests_open - 2019.05.16 at 19h 27m 14s.xml">
+    <history-entry file="AutomatedTests_open - 2019.05.17 at 08h 36m 47s.xml">
       <configuration name="AutomatedTests.open" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomatedTests_open - 2019.05.16 at 19h 36m 18s.xml">
+    <history-entry file="AutomatedTests_open - 2019.05.17 at 08h 42m 15s.xml">
       <configuration name="AutomatedTests.open" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomatedTests_open - 2019.05.16 at 19h 37m 35s.xml">
+    <history-entry file="AutomatedTests_open - 2019.05.17 at 08h 42m 47s.xml">
       <configuration name="AutomatedTests.open" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomatedTests_open - 2019.05.16 at 19h 43m 55s.xml">
+    <history-entry file="AutomatedTests_open - 2019.05.17 at 08h 49m 22s.xml">
       <configuration name="AutomatedTests.open" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomatedTests_open - 2019.05.16 at 20h 27m 33s.xml">
+    <history-entry file="AutomatedTests_open - 2019.05.17 at 08h 49m 36s.xml">
       <configuration name="AutomatedTests.open" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomatedTests_open - 2019.05.16 at 20h 29m 09s.xml">
+    <history-entry file="AutomatedTests_open - 2019.05.17 at 08h 49m 49s.xml">
       <configuration name="AutomatedTests.open" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomatedTests_open - 2019.05.16 at 20h 32m 27s.xml">
+    <history-entry file="AutomatedTests_open - 2019.05.17 at 08h 52m 13s.xml">
       <configuration name="AutomatedTests.open" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomatedTests - 2019.05.16 at 20h 34m 56s.xml">
-      <configuration name="AutomatedTests" configurationId="TestNG" />
+    <history-entry file="AutomatedTests_open - 2019.05.17 at 08h 52m 32s.xml">
+      <configuration name="AutomatedTests.open" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomatedTests - 2019.05.16 at 20h 57m 55s.xml">
-      <configuration name="AutomatedTests" configurationId="TestNG" />
+    <history-entry file="AutomatedTests_open - 2019.05.17 at 08h 57m 21s.xml">
+      <configuration name="AutomatedTests.open" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -346,15 +375,15 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33987916" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39879155" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38217524" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39879155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32930514" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -369,15 +398,22 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/datadriven/tests/AutomatedTests.java</url>
-          <line>28</line>
+          <line>99</line>
           <properties />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datadriven/excel/ExcelReader.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="TestNG">
         <watch expression="firstNameObj" />
+        <watch expression="sheetIterator" />
       </configuration>
     </watches-manager>
   </component>
@@ -413,22 +449,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/datadriven/tests/AutomatedTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/datadriven/pages/RegisterPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="296">
+          <caret line="66" selection-start-line="10" selection-start-column="4" selection-end-line="66" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/datadriven/pages/RegisterPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/datadriven/tests/AutomatedTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1270">
-          <caret line="76" column="33" lean-forward="true" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="39" />
+        <state relative-caret-position="184">
+          <caret line="95" column="41" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/datadriven/excel/ExcelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
